@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 this is sample file. 
 
 This is my first file.
+=======
+This is sample file
+This is comparison lecture
+>>>>>>> main
